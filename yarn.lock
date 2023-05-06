@@ -2313,6 +2313,23 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@discordjs/redis-gateway@workspace:packages/redis-gateway":
+  version: 0.0.0-use.local
+  resolution: "@discordjs/redis-gateway@workspace:packages/redis-gateway"
+  dependencies:
+    "@types/node": 16.18.25
+    cross-env: ^7.0.3
+    eslint: ^8.39.0
+    eslint-config-neon: ^0.1.46
+    eslint-formatter-pretty: ^5.0.0
+    prettier: ^2.8.8
+    tslib: ^2.5.0
+    tsup: ^6.7.0
+    turbo: ^1.9.4-canary.9
+    typescript: ^5.0.4
+  languageName: unknown
+  linkType: soft
+
 "@discordjs/rest@workspace:^, @discordjs/rest@workspace:packages/rest":
   version: 0.0.0-use.local
   resolution: "@discordjs/rest@workspace:packages/rest"

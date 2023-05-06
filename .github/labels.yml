@@ -62,15 +62,17 @@
   color: fbca04
 - name: packages:discord.js
   color: fbca04
-- name: packages:next
-  color: fbca04
 - name: packages:docgen
   color: fbca04
 - name: packages:formatters
   color: fbca04
+- name: packages:next
+  color: fbca04
 - name: packages:proxy
   color: fbca04
 - name: packages:proxy-container
+  color: fbca04
+- name: packages:redis-gateway
   color: fbca04
 - name: packages:rest
   color: fbca04
